@@ -1,4 +1,4 @@
-Hello, my name is Purusottam Banerjee and I am a software developer with experience working on a variety of projects. I have worked with several programming languages such as 
+Hello, my name is Purusottam Banerjee and I am a beginner software developer with experience working on a variety of projects. I have worked with several programming languages such as 
 JAVA, Python, Javascript, HTML, and CSS, and have experience in designing, developing and managing both NoSQL and relational databases.
 
 Apart from database management, my primary area of interest is web development and software development. I have developed several web applications using various front-end and
